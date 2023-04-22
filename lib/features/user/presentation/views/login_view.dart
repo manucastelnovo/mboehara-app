@@ -59,7 +59,7 @@ class LoginView extends HookConsumerWidget {
                                                 255, 13, 106, 8))),
                                     border: OutlineInputBorder(
                                       borderSide: BorderSide(
-                                        color: Color.fromARGB(255, 89, 11, 2),
+                                        color: Color.fromRGBO(217, 130, 153, 1),
                                       ),
                                     ),
                                     prefixIcon: Icon(Icons.person_rounded,
