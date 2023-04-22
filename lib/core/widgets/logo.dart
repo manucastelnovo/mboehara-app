@@ -21,11 +21,11 @@ class Logo extends StatelessWidget {
             ),
           ),
           Text(
-            "Pua'e App",
+            "Mbo'ehara App",
             style: TextStyle(
               fontFamily: 'Lato',
-              fontSize: height! * 0.2,
-              color: const Color.fromRGBO(255, 63, 18, 1),
+              fontSize: height! * 0.15,
+              color: const Color.fromRGBO(217, 130, 153, 1),
             ), // 4, 178, 217, 1
           ),
         ],

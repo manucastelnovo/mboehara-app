@@ -59,7 +59,7 @@ class RegisterView extends HookConsumerWidget {
                               style: TextStyle(
                                 fontFamily: 'Lato',
                                 fontSize: 58,
-                                color: Color.fromRGBO(255, 63, 18, 1),
+                                color: Color.fromRGBO(217, 130, 153, 1),
                               ), // 4, 178, 217, 1
                             ),
                           ),
@@ -223,7 +223,7 @@ class RegisterView extends HookConsumerWidget {
                                   ),
                                   style: ButtonStyle(
                                     backgroundColor: MaterialStateProperty.all(
-                                      const Color.fromRGBO(255, 63, 18, 1),
+                                      const Color.fromRGBO(217, 130, 153, 1),
                                     ),
                                   ),
                                 ),

@@ -84,7 +84,7 @@ class LoginView extends HookConsumerWidget {
                                     ),
                                     border: OutlineInputBorder(
                                       borderSide: BorderSide(
-                                        color: Color.fromARGB(255, 89, 11, 2),
+                                        color: Color.fromRGBO(217, 130, 153, 1),
                                       ),
                                     ),
                                     prefixIcon: Icon(Icons.password_rounded,
@@ -123,7 +123,7 @@ class LoginView extends HookConsumerWidget {
                                   ),
                                   style: ButtonStyle(
                                     backgroundColor: MaterialStateProperty.all(
-                                      const Color.fromRGBO(255, 63, 18, 1),
+                                      const Color.fromRGBO(217, 130, 153, 1),
                                     ),
                                   ),
                                 ),
